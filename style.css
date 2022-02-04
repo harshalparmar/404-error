@@ -15,7 +15,7 @@ html {
 }
 
 body {
-  background-image: url("https://demo/star.svg"), linear-gradient(to bottom, #05007A, #4D007D);
+  background-image: url("https://raw.githubusercontent.com/harshalparmar/404-error/main/star.svg"), linear-gradient(to bottom, #05007A, #4D007D);
   height: 100%;
   margin: 0;
   background-attachment: fixed;
@@ -28,7 +28,7 @@ body {
   bottom: 0;
   position: absolute;
   height: 27vmin;
-  background: url("https://demo/mars.svg") no-repeat bottom center;
+  background: url("https://raw.githubusercontent.com/harshalparmar/404-error/main/mars.svg") no-repeat bottom center;
   background-size: cover;
 }
 
